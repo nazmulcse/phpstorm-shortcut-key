@@ -2,5 +2,6 @@
 
 ```
 Ctrl + Shift + C      # Copy full path of file
+Alt + j               # Multiple line selection
 
 ```
